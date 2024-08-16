@@ -5,7 +5,7 @@ using namespace  std;
 
 
 int main() {
-    std::string name;
+    string name;
 
     // Ask for the user's name
     cout << "Enter your name: ";
